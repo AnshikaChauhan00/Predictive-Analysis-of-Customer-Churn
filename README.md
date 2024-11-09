@@ -35,7 +35,6 @@ The project follows a structured workflow:
 - **Pandas & NumPy**: Data manipulation
 - **Scikit-Learn**: Model training and evaluation
 - **Matplotlib & Seaborn**: Data visualization
-- **Flask or FastAPI**: Model deployment
-- 
+
 ## Conclusion
   The final model provides insights into which factors most impact customer churn, offering actionable strategies for improving retention. By identifying high-risk customers, companies can tailor interventions to reduce churn.
